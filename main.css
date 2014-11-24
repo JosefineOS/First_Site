@@ -1,11 +1,15 @@
 #social-buttons button {
   color: white;
+  font-size: 20px;
+  font-family: helvetica, sans-serif;
 }
 .btn-twitter {
   background-color: #00acee;
   border-color: #009ad5;
+  
 }
 .btn-instagram {
   background-color: #517fa4;
   border-color: #517fa4;
+  
 }
